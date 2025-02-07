@@ -1,1 +1,1 @@
-
+EDA (Exploratory Data Analysis) is the process of analyzing, visualizing, and summarizing a dataset before applying machine learning models or statistical techniques. It helps in understanding the structure, patterns, and potential issues within the data. Here in this EDA project we
