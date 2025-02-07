@@ -1,1 +1,1 @@
-# EDA
+The dataset contains 1,320 EV charging sessions, detailing user ID, vehicle model, battery capacity, charging times, energy consumed, cost, and contextual factors like time, location, temperature, and user type. From this dataset help to analyis the efficiency of vehicle and the battery capacity their charging duration to understand amoung these models which one give better throughput
